@@ -36,6 +36,7 @@ button {
     margin-bottom: 5px;
     border-radius: 1em;
     font-size: 30px;
+    overflow-x: hidden
 }
 
 #increment-btn {
