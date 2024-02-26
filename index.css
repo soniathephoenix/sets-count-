@@ -32,11 +32,10 @@ button {
     padding-bottom: 1em;
     color: white;
     font-weight:default;
-    width: 200px;
+    width: 300px;
     margin-bottom: 5px;
     border-radius: 1em;
     font-size: 30px;
-    overflow-x: hidden
 }
 
 #increment-btn {
