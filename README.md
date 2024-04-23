@@ -1,2 +1,2 @@
 # sets-count-
-a function to count sets while you workout.
+count your sets while you workout.
